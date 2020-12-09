@@ -25,7 +25,6 @@ namespace Moving_Zeros_To_The_End__5_kyu_
                                 if (arr[k] == 0)
                                 {
                                     zeroCount++;
-                                var maikavietupa;
                                     break;
 
                                 }
