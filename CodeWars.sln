@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moving Zeros To The End (5 kyu)", "Moving Zeros To The End (5 kyu)\Moving Zeros To The End (5 kyu).csproj", "{73298B13-CEA9-451A-88B8-BA15B1D4C28B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rot13 (5kyu)", "rot13\rot13 (5kyu).csproj", "{389E0EA5-E95B-47E0-9033-9EC2A2E00A79}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{73298B13-CEA9-451A-88B8-BA15B1D4C28B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73298B13-CEA9-451A-88B8-BA15B1D4C28B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73298B13-CEA9-451A-88B8-BA15B1D4C28B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{389E0EA5-E95B-47E0-9033-9EC2A2E00A79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{389E0EA5-E95B-47E0-9033-9EC2A2E00A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{389E0EA5-E95B-47E0-9033-9EC2A2E00A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{389E0EA5-E95B-47E0-9033-9EC2A2E00A79}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
