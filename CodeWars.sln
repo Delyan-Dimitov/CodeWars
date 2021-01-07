@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tic-Tac-Toe Checker (5kyu)"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snail (4kyu)", "Snail (4kyu)\Snail (4kyu).csproj", "{8D4624F6-D588-49F5-9049-74956C12EF44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Range Extraction (4kyu)", "Range Extraction (4kyu)\Range Extraction (4kyu).csproj", "{F7A50599-7755-48D1-A331-764A1130A462}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{8D4624F6-D588-49F5-9049-74956C12EF44}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D4624F6-D588-49F5-9049-74956C12EF44}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D4624F6-D588-49F5-9049-74956C12EF44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A50599-7755-48D1-A331-764A1130A462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A50599-7755-48D1-A331-764A1130A462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A50599-7755-48D1-A331-764A1130A462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A50599-7755-48D1-A331-764A1130A462}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
