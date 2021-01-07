@@ -6,6 +6,7 @@ namespace rot13
 {
     class Program
     {
+        // What i tried and failed
         static void Main(string[] args)
         {
             Console.WriteLine(Rot13("Grfg"));

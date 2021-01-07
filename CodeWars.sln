@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moving Zeros To The End (5 kyu)", "Moving Zeros To The End (5 kyu)\Moving Zeros To The End (5 kyu).csproj", "{73298B13-CEA9-451A-88B8-BA15B1D4C28B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Moving Zeros To The End (5 kyu)", "Moving Zeros To The End (5 kyu)\Moving Zeros To The End (5 kyu).csproj", "{73298B13-CEA9-451A-88B8-BA15B1D4C28B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rot13 (5kyu)", "rot13\rot13 (5kyu).csproj", "{389E0EA5-E95B-47E0-9033-9EC2A2E00A79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rot13 (5kyu)", "rot13\rot13 (5kyu).csproj", "{389E0EA5-E95B-47E0-9033-9EC2A2E00A79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tic-Tac-Toe Checker (5kyu)", "Tic-Tac-Toe Checker (5kyu)\Tic-Tac-Toe Checker (5kyu).csproj", "{15E4743F-21E5-4322-A2CA-8F17A0E4B82D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{389E0EA5-E95B-47E0-9033-9EC2A2E00A79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{389E0EA5-E95B-47E0-9033-9EC2A2E00A79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{389E0EA5-E95B-47E0-9033-9EC2A2E00A79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E4743F-21E5-4322-A2CA-8F17A0E4B82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E4743F-21E5-4322-A2CA-8F17A0E4B82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E4743F-21E5-4322-A2CA-8F17A0E4B82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E4743F-21E5-4322-A2CA-8F17A0E4B82D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
