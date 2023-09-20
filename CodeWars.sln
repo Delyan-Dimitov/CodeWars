@@ -1,17 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30621.155
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Moving Zeros To The End (5 kyu)", "Moving Zeros To The End (5 kyu)\Moving Zeros To The End (5 kyu).csproj", "{73298B13-CEA9-451A-88B8-BA15B1D4C28B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "rot13 (5kyu)", "rot13\rot13 (5kyu).csproj", "{389E0EA5-E95B-47E0-9033-9EC2A2E00A79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tic-Tac-Toe Checker (5kyu)", "Tic-Tac-Toe Checker (5kyu)\Tic-Tac-Toe Checker (5kyu).csproj", "{15E4743F-21E5-4322-A2CA-8F17A0E4B82D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tic-Tac-Toe Checker (5kyu)", "Tic-Tac-Toe Checker (5kyu)\Tic-Tac-Toe Checker (5kyu).csproj", "{15E4743F-21E5-4322-A2CA-8F17A0E4B82D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snail (4kyu)", "Snail (4kyu)\Snail (4kyu).csproj", "{8D4624F6-D588-49F5-9049-74956C12EF44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Snail (4kyu)", "Snail (4kyu)\Snail (4kyu).csproj", "{8D4624F6-D588-49F5-9049-74956C12EF44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Range Extraction (4kyu)", "Range Extraction (4kyu)\Range Extraction (4kyu).csproj", "{F7A50599-7755-48D1-A331-764A1130A462}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Range Extraction (4kyu)", "Range Extraction (4kyu)\Range Extraction (4kyu).csproj", "{F7A50599-7755-48D1-A331-764A1130A462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "So Many Permutations! (4Kyu)", "So Many Permutations! (4Kyu)\So Many Permutations! (4Kyu).csproj", "{20FE3E64-A5FA-4001-A8BF-3FB2770F0745}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{F7A50599-7755-48D1-A331-764A1130A462}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7A50599-7755-48D1-A331-764A1130A462}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7A50599-7755-48D1-A331-764A1130A462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20FE3E64-A5FA-4001-A8BF-3FB2770F0745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20FE3E64-A5FA-4001-A8BF-3FB2770F0745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20FE3E64-A5FA-4001-A8BF-3FB2770F0745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20FE3E64-A5FA-4001-A8BF-3FB2770F0745}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
